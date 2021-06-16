@@ -3,14 +3,14 @@ Homebrew tap repo for elasticsearch versions not in [homebrew-core](https://gith
 
 Tap the repo:
 
-`brew tap surjay/homebrew-elasticsearch`
+`brew tap dmitriy-kiriyenko/homebrew-elasticsearch`
 
 
 Install the formula version you want:
 
-`brew install surjay/elasticsearch/elasticsearch@6.0.1`
+`brew install dmitriy-kiriyenko/elasticsearch/elasticsearch@6.0.1`
 
 
 If you need this symlinked:
 
-`brew link --force surjay/elasticsearch/elasticsearch@6.0.1`
+`brew link --force dmitriy-kiriyenko/elasticsearch/elasticsearch@6.0.1`

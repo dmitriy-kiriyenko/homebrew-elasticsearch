@@ -13,7 +13,7 @@ class ElasticsearchAT601 < Formula
 
   keg_only :versioned_formula
 
-  depends_on :java
+  depends_on "openjdk@8"
 
   def cluster_name
     "elasticsearch_#{ENV["USER"]}"
